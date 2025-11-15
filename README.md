@@ -1,6 +1,6 @@
 # Simple chat application using React, Socket.io and Node.js
 
-##### Simple Demo
+##### Simple Demo ####
 
   https://react-socketio-nodejs-test-chatapp.surge.sh
 
